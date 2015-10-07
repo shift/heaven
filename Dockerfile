@@ -1,4 +1,4 @@
-FROM shift/ruby:ruby-2.2.2
+FROM shift/ruby:ruby-2.2.3
 
 MAINTAINER Vincent Palmer <shift@someone.section.me>
 
